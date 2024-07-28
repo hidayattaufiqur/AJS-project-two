@@ -1,0 +1,2 @@
+## This is a finalterm project for Analisis Jaringan Sosial.
+This project is about analyzing and finding community in social network. In this project, the social network that's being used is Twitter. The dataset is gathered through a crawling process, utilizing Tweet Harvest library. The dataset is stored in a csv file in techbros.csv. The dataset (as per last crawling) contains 774 tweets that has keyword "tehcbros" in it.
